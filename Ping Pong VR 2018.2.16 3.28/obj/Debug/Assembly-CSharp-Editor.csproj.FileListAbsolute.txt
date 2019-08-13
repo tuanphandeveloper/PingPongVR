@@ -1,0 +1,2 @@
+D:\Desktop\Hawkar\Unity collection\Unity projects\Ritesh Playground\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+D:\Desktop\Hawkar\Unity collection\Unity projects\Ritesh Playground\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
